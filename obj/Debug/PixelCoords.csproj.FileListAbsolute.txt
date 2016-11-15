@@ -1,0 +1,10 @@
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\PixelCoords\bin\Debug\PixelCoords.exe.config
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\bin\Debug\PixelCoords.exe.config
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\bin\Debug\PixelCoords.exe
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\bin\Debug\PixelCoords.pdb
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.csprojResolveAssemblyReference.cache
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.MainForm.resources
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.Properties.Resources.resources
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.csproj.GenerateResource.Cache
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.exe
+V:\Ekonomi\Kundservice\90 Allmänt\50 Projekt\202_ImagePixelCoords\obj\Debug\PixelCoords.pdb
